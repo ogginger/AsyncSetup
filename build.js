@@ -8,7 +8,7 @@
 	"rsvp": "lib/rsvp.min",
 	"underscore": "lib/underscore.min"
     },
-    exclude: [ "rsvp", "underscore" ],
+    exclude: [ "rsvp", "underscore", "promise" ],
     name: "AsyncSetup",
     out: "async_setup.min.js"
 })
